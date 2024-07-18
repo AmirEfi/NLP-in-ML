@@ -1,3 +1,3 @@
 # NLP-in-ML
 ## Final Project of Machine Learning course - Fall 2023
-This repository is for 
+This repository is for Natural Language Processing with ML. 

@@ -8,6 +8,6 @@ The roadmap is as below:
 
 In the NLP.ipynb file, I did the step-by-step process as in the above photo. 
 
-The [dataset]([url](https://drive.google.com/file/d/1gyEAly-tnTr3NRkvNGHmn0_77s3nyfDU/view)) I used was texts of the news with the category of it.
+The [dataset](https://drive.google.com/file/d/1gyEAly-tnTr3NRkvNGHmn0_77s3nyfDU/view) I used was texts of the news with the category of it.
 
 

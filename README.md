@@ -14,7 +14,7 @@ First of all, the preprocessing has been done to the texts. then the words are t
 
 In the end, the model must be capable of determining the category of random news.
 
-You can 
+Also, you can see the results of some usual metrics in the final lines of the code.
 
 
 

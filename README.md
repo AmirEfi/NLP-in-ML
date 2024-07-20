@@ -10,9 +10,11 @@ In the NLP.ipynb file, I did the step-by-step process as in the photo.
 
 The [dataset](https://drive.google.com/file/d/1gyEAly-tnTr3NRkvNGHmn0_77s3nyfDU/view) I used was texts of the news with the category of them.
 
-First of all, the preprocessing has been done to the texts. then the words are tokenized. now feature extraction has been applied by using the TF-IDF method and finally, random forest is selected to use in the machine learning model.
+First of all, the preprocessing has been done to the texts. then the words are tokenized. now feature extraction has been applied by using the TF-IDF method and finally, the random forest is selected to use in the machine learning model.
 
-The model must be capable of determining the category of random news.
+In the end, the model must be capable of determining the category of random news.
+
+You can 
 
 
 

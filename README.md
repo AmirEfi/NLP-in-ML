@@ -16,7 +16,7 @@ In the end, the model must be capable of determining the category of random news
 
 Also, you can see the results of some usual metrics in the final lines of the code.
 
-To use this model, first of all, get the text of the news, then pass it to the primray_prep_text function to remove punctuations. after that, pass it to the remove_stopwords function to remove stop words. now give this clean text to the TF-IDF model to extract features and so give the features to the final model to give you the probable category the news may contain.
+To use this model, first of all, get the text of the news, then pass it to the primray_prep_text function to remove punctuations. after that, pass it to the remove_stopwords function to remove stop words. now give this clean text to the TF-IDF model to extract features and so give the features to the final [model](https://drive.google.com/file/d/1kflWvXH8ZYmAKwoPeQROKh25IVWv3IPX/view?usp=sharing) to provide you with the probable category the news may contain.
 
 
 
